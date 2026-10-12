@@ -1,0 +1,11 @@
+{
+    "OneCharWaitTime": 0.01,
+    "WINDOWS_FontSetting": {
+        "FontName": "Arial",
+        "FontSize": 14
+    },
+    "MAC_FontSetting": {
+        "FontName": "Helvetica",
+        "FontSize": 14
+    }
+}
